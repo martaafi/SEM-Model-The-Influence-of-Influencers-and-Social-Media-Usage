@@ -1,2 +1,5 @@
-# SEM-Model-The-Influence-of-Influencers-and-Social-Media-Usage
-Proyek Akhir mata kuliah Persamaan Model Struktural (Semester 6)
+# SEM Model: The Influence of Influencers and Social Media Usage on Digital Political Participation among Indonesian Gen Z
+## Project Overview
+Penelitian ini bertujuan untuk menganalisis pengaruh influencer dan penggunaan media sosial terhadap partisipasi politik digital Generasi Z di Indonesia. Menggunakan pendekatan kuantitatif dengan model Structural Equation Modeling (SEM) dan estimasi Generalized Least Squares (GLS), penelitian ini melibatkan 200 responden Generasi Z yang aktif menggunakan media sosial. Data dikumpulkan melalui kuesioner daring. Uji validitas menunjukkan semua item memiliki loading factor di atas 0,5 dan uji reliabilitas menunjukkan bahwa seluruh variabel memenuhi kriteria dengan Composite Reliability (CR) ≥ 0,70 dan Average Variance Extracted (AVE) ≥ 0,50 sehingga pengukuran valid dan reliabel. 
+
+Hasil menunjukkan bahwa influencer dan penggunaan media sosial secara signifikan berpengaruh  terhadap partisipasi politik digital Gen Z dengan interaksi antara keduanya memperkuat tingkat keterlibatan. Media sosial berfungsi sebagai sumber informasi dan penghubung influencer mempermudah akses narasi politik. Mengakui tantangan seperti misinformasi dan polarisasi, penelitian ini menekankan peningkatan literasi digital, transparansi algoritma, dan kebijakan moderasi konten. 
